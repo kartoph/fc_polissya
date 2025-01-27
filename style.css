@@ -4,6 +4,14 @@ body {
   color: #000;
   background: #326717 url('/img/bg.jpg') center top no-repeat;
 }
+
+#highlights
+{
+  background-color: rgba(00,200,0,0.1)
+  padding: 20px;
+  margin: 20px 0;  
+}
+
 h1 {
   color: yellow;
   text-align: center;
@@ -16,4 +24,9 @@ p {
 
 img{
     width: 100px;
+}
+
+footer{
+background-color: 000;
+color: white;
 }
